@@ -2,6 +2,9 @@
 
 A dark VSCode theme reverse-engineered from Claude's code preview palette.
 
+<img width="564" alt="image" src="https://github.com/user-attachments/assets/c9dfa632-afd0-4c98-b0c8-7f8e2e200045" />
+
+
 ---
 
 ## Color Palette
