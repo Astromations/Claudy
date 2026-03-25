@@ -4,7 +4,6 @@ A dark VSCode theme reverse-engineered from Claude's code preview palette.
 
 <img width="564" alt="image" src="https://github.com/user-attachments/assets/c9dfa632-afd0-4c98-b0c8-7f8e2e200045" />
 
-
 ---
 
 ## Color Palette
@@ -26,11 +25,18 @@ A dark VSCode theme reverse-engineered from Claude's code preview palette.
 
 ### From the Marketplace
 
-1. Open the **Command Pallete** panel (`Ctrl+Shift+P` / `Cmd+Shift+P`)
-2. Open **Developer: Install Extension From Location...**
-3. Locate for **Claudy** and Select Folder
-4. Locate **Anthropic Sans** in **/Claudy** and
+1. Open the **Extensions** panel (`Ctrl+Shift+X` / `Cmd+Shift+X`)
+2. Search for **Claudy**
+3. Click **Install**
+4. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`)
 5. Run **Preferences: Color Theme** and select **Claudy**
+
+### Manual Install (VSIX)
+
+1. Download the `.vsix` file
+2. Open the Command Palette and run **Extensions: Install from VSIX...**
+3. Select the downloaded file
+4. Reload VSCode and select **Claudy** from the colour theme picker
 
 ## Recommended Font: Anthropic Mono
 
