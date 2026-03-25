@@ -1,0 +1,19 @@
+# Excluded from the packaged .vsix
+# These files won't be bundled when you run `vsce package`
+
+# Font file — cannot be used by a theme, distribute separately
+*.ttf
+*.otf
+*.woff
+*.woff2
+
+# Development / system files
+.git/**
+.gitignore
+.DS_Store
+Thumbs.db
+*.zip
+
+# Optional: exclude if you don't want to ship these
+# CHANGELOG.md
+# (README.md should be kept — it shows in the marketplace)

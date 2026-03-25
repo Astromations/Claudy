@@ -1,0 +1,46 @@
+{
+  "name": "claudy-theme",
+  "displayName": "Claudy",
+  "description": "A dark theme reverse-engineered from Claude's code preview palette — warm charcoal background with violet keywords, tangerine functions, lime strings, rose methods, and teal numbers.",
+  "version": "1.0.0",
+  "publisher": "your-publisher-id",
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "claude",
+    "anthropic",
+    "color theme",
+    "charcoal",
+    "violet",
+    "monokai"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/claudy-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/claudy-theme/issues"
+  },
+  "homepage": "https://github.com/your-username/claudy-theme#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Claudy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/claudy-color-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#30302E",
+    "theme": "dark"
+  }
+}
