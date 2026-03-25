@@ -2,7 +2,7 @@
   "name": "claudy-theme",
   "displayName": "Claudy",
   "description": "A dark theme reverse-engineered from Claude's code preview palette",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "Astromations",
   "license": "MIT",
   "icon": "icon.png",
