@@ -1,9 +1,9 @@
 {
   "name": "claudy-theme",
   "displayName": "Claudy",
-  "description": "A dark theme reverse-engineered from Claude's code preview palette — warm charcoal background with violet keywords, tangerine functions, lime strings, rose methods, and teal numbers.",
+  "description": "A dark theme reverse-engineered from Claude's code preview palette",
   "version": "1.0.0",
-  "publisher": "your-publisher-id",
+  "publisher": "Astromations",
   "license": "MIT",
   "icon": "icon.png",
   "engines": {
@@ -24,12 +24,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/claudy-theme"
+    "url": "https://github.com/Astromations/Claudy"
   },
   "bugs": {
-    "url": "https://github.com/your-username/claudy-theme/issues"
+    "url": "https://github.com/Astromations/Claudy"
   },
-  "homepage": "https://github.com/your-username/claudy-theme#readme",
+  "homepage": "https://github.com/Astromations/Claudy#readme",
   "contributes": {
     "themes": [
       {
