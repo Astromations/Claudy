@@ -55,7 +55,7 @@
     "activityBar.foreground":                   "#C8C6C2",
     "activityBar.inactiveForeground":           "#5B595C",
     "activityBar.border":                       "#1A1A18",
-    "activityBarBadge.background":              "#CC7BF4",
+    "activityBarBadge.background":              "#FBAD60",
     "activityBarBadge.foreground":              "#1E1E1C",
 
     // ── Tabs ──────────────────────────────────────────────────────
@@ -66,7 +66,7 @@
     "tab.inactiveForeground":                   "#7A7875",
     "tab.hoverBackground":                      "#2C2C2A",
     "tab.border":                               "#1E1E1C",
-    "tab.activeBorderTop":                      "#CC7BF4",
+    "tab.activeBorderTop":                      "#FBAD60",
     "tab.unfocusedActiveBorderTop":             "#7A7875",
 
     // ── Title bar ─────────────────────────────────────────────────
@@ -142,7 +142,7 @@
     "scrollbarSlider.activeBackground":         "#7A787580",
 
     // ── Badges / notifications ────────────────────────────────────
-    "badge.background":                         "#CC7BF4",
+    "badge.background":                         "#FBAD60",
     "badge.foreground":                         "#1E1E1C",
     "notificationCenterHeader.background":      "#252523",
     "notifications.background":                 "#2C2C2A",
